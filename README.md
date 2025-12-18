@@ -1,5 +1,7 @@
 ## Inter_Process_Communication_Using_Mailbox_in_SystemVerilog_PG
 EXPERIMENT 8– MAILBOX–BASED PACKET TRANSFER USING SYSTEMVERILOG
+## Reg no:25014334
+## Name:Santhiya B
 
 ## Aim
 To design and verify a SystemVerilog testbench that uses mailbox to transfer randomized packet objects from a Generator to a Driver, demonstrating synchronised communication in verification environments.
@@ -97,6 +99,7 @@ endmodule
 ```
 
 ## OUTPUT
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/c6b5e514-a480-441b-b2e9-90bbbb9ae2fe" />
 
 ## RESULT
 The packet objects were successfully randomized.
